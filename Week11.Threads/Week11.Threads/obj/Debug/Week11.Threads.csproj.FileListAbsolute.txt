@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.ThreadingForm.resources
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.Properties.Resources.resources
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\bin\Debug\Week11.Threads.exe.config
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\bin\Debug\Week11.Threads.exe
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\bin\Debug\Week11.Threads.pdb
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.exe
+C:\Users\HP\source\repos\Week11.Threads\Week11.Threads\obj\Debug\Week11.Threads.pdb
